@@ -26,7 +26,7 @@
 6. Scroll down and hit "Save".
 
 
-# steps to add a credential in Jenkins:
+# Add a credential in Jenkins:
 
 1. In your Jenkins dashboard, go to Credentials > System > Global credentials.
 2. Click on the "Add Credentials" on the left side.
